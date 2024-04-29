@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+  
+}
+.header{
+
+    margin:100px;
+    border: solid skyblue 5px;
+    height: 43rem;
+    width: 75rem; 
+    background-color: pink;
+   
+  
+}
+.outerbox{
+
+    display: flex;
+}
+h1{
+
+    background-color: black;
+    color: white;
+    padding: 10px;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+ 
+}
+h3{
+
+    border-bottom: solid gray 5px;
+    width: 400px;
+    padding-bottom: 7px;
+   
+}
+
+.gimage img{
+
+    height: 250px;
+    width: 200px;
+   
+    margin: 10px;
+    border: solid black 3px;
+}
+.gallery-1{
+
+     display: flex;
+     width: 80%;
+     margin-left: 30px;
+     padding-top: 20px;
+     flex-wrap: wrap;
+     padding-left: 100px;
+ 
+}
